@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+.block {
+    border: 50px solid #c4c4c4;
+}
+.block1 {
+    width: 200px;
+    height: 200px;
+    padding: 63px;
+    font-size: 64px;
+    color: #fff;
+    background-color: #fc8f8f;
+    display: inline-block;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.relative {
+    position: relative;
+}
+.clear {
+    clear: both;
+}
+.absolute {
+    width: 100px;
+    height: 100px;
+    padding: 31px;
+    font-size: 36px;
+    position: absolute;
+    top: 0;
+}
+.second {
+    right: 345px;
+}
+.third {
+    right: 230px;
+}
+.fourth {
+    right: 115px;
+}
+.fifth {
+    right: 0px;
+}
+.left1 {
+    float: left 215px;
+}
+.right1 {
+    float: right;
+}

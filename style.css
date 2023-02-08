@@ -48,9 +48,15 @@
 .fifth {
     right: 0px;
 }
-.left1 {
-    float: left 215px;
+.absolute1 {
+    left: 215px;
+    position: absolute;
 }
-.right1 {
-    float: right;
+.absolute2 {
+    right: 215px;
+    position: absolute;
+}
+.absolute3 {
+    right: 0px;
+    position: absolute;
 }
